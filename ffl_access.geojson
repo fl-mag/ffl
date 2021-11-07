@@ -2184,6 +2184,69 @@
           -36.16970203860236
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southern Shore Access",
+        "waterway_name": "Wurdiboluc Reservoir",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "The southern shoreline offers the best fly water",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/11/wurdiboluc-reservoirDJI_0096-2560-500x250.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.040147,
+          -38.301012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dam wall",
+        "waterway_name": "Wurdiboluc Reservoir",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Slightly deeper water can be found along the dam wall.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/11/wurdiboluc-reservoirIMG_0699X-2560-500x250.jpg",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.047534,
+          -38.297488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southern shoreline",
+        "waterway_name": "Wurdiboluc Reservoir",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "When the water levels are up, trout can be found quite close to sure.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/11/wurdiboluc-reservoirIMG_0696-2560-500x250.jpg",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0441083908081,
+          -38.30014201698435
+        ]
+      }
     }
   ]
 }
