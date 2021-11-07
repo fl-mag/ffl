@@ -1029,6 +1029,27 @@
           -38.51701181630736
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wurdiboluc Reservoir",
+        "waterway_name": "Wurdiboluc Reservoir",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Wurdiboluc Reservoir is the main water storage for the city of Geelong with a water treatment plant located at the outflow of the reservoir. Stocked regularly with brown and rainbow trout it provides a stillwater fly fishing option close to the Surfcoast region.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/wurdiboluc-reservoir",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/11/wurdiboluc-reservoirIMG_0695-2560-500x250.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.03900146484375,
+          -38.29640356474841
+        ]
+      }
     }
   ]
 }
