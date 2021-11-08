@@ -2247,6 +2247,27 @@
           -38.30014201698435
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willow Vale Road Carpark",
+        "waterway_name": "Thompsons Creek Dam",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "lake",
+        "description": "Access to TCD is only on foot from the Willow Vale Road Carpark.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.014826,
+          -33.424148
+        ]
+      }
     }
   ]
 }
