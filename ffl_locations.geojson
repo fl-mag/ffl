@@ -1071,6 +1071,27 @@
           -33.431794
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fyans Creek",
+        "waterway_name": "Fyans Creek",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Creek",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/fyans-creek",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/11/fyans-creek-2560-500x250.jpg",
+        "ffl_marker_type": "location",
+        "description": "A beautiful, little freestone stream that flows into Lake Bellfield in the heart of the Grampians. The water is crystal clear and the rocks in the river project stunning colours of orange and red."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46932983398438,
+          -37.260938147754516
+        ]
+      }
     }
   ]
 }
