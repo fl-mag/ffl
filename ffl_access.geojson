@@ -2255,7 +2255,7 @@
         "waterway_name": "Thompsons Creek Dam",
         "country": "AU",
         "state": "NSW",
-        "waterway_type": "lake",
+        "waterway_type": "Lake",
         "description": "Access to TCD is only on foot from the Willow Vale Road Carpark.",
         "URL": "",
         "image_url": "",
@@ -2266,6 +2266,69 @@
         "coordinates": [
           150.014826,
           -33.424148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reef Reserve",
+        "waterway_name": "Lake Oberon",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "Lake",
+        "description": "Boat ramp, camping and shore access",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.82775,
+          -33.717191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dam wall",
+        "waterway_name": "Lake Oberon",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "Lake",
+        "description": "Dam wall and access via the golf course",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2022/03/lake-oberon-matt-burnett-20210502_144052-2560-500x250.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.86634,
+          -33.72221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kellys Lane",
+        "waterway_name": "Lake Oberon",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "Lake",
+        "description": "Access via Kellys Lane",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.864214,
+          -33.72978
         ]
       }
     }
