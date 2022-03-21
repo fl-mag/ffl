@@ -1092,6 +1092,27 @@
           -37.235981
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Oberon",
+        "waterway_name": "Lake Oberon",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "Lake",
+        "description": "A diverse fishery with a range of species to target including natives.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/lake-onberon",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2022/03/lake-oberon-matt-burnett-20220219_170206-2560-500x250.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8487091064453,
+          -33.72491075551312
+        ]
+      }
     }
   ]
 }
