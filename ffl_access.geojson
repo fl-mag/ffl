@@ -2331,6 +2331,27 @@
           -33.72978
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Leake boat ramp",
+        "waterway_name": "Lake Leake",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "Boat ramp access is provided at the southern end of the lake via Kalangadoo Rd.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/08/Lake-Leake-boat-ramp-adem-2560-500x250.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.83005714416504,
+          -42.026009091955146
+        ]
+      }
     }
   ]
 }
