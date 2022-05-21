@@ -1113,6 +1113,27 @@
           -33.726
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coxs River",
+        "waterway_name": "Coxs River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "The Coxs River is an extensive river featuring many different water types, from wilderness to farmland it offers great options for trout fishing throughout the year.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/coxs-river",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2022/05/Coxs-River-Bowtells-swing-bridge-20211025_124018-2560-500x250.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.15975952148438,
+          -33.674354248232504
+        ]
+      }
     }
   ]
 }
