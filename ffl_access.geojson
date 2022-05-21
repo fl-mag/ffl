@@ -2352,6 +2352,48 @@
           -42.026009091955146
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Coxs River",
+        "name": "Bowtells Swing Bridge",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Walking access via the Six Foot Track",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2022/05/Coxs-River-Bowtells-swing-bridge-20211025_115206-2560-500x250.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.1862,
+          -33.737875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Coxs River",
+        "name": "Duddawarra Bridge",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Road bridge access with small reserve",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2022/05/Coxs-River-Duddawarra-Bridge-20220326_103740-2560-500x250.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.161401,
+          -33.61801
+        ]
+      }
     }
   ]
 }
