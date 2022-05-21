@@ -2394,6 +2394,90 @@
           -33.61801
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Coxs River",
+        "name": "Marrangaroo National Park",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "4WD access in the Marrangaroo National Park",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.082602,
+          -33.470236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Coxs River",
+        "name": "Downstream of Lake Wallace",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Road bridge access below lake Wallace. Access downstream only.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2022/05/Coxs-River-below-lake-wallace-20220327_115409-2560-500x250.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.079821,
+          -33.425167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Coxs River",
+        "name": "Upstream of Lake Wallace",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Road Bridge just off the Castlereagh Highway",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2022/05/Coxs-River-main-street-above-lake-wallace-20220326_123511-2560-500x250.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.081274,
+          -33.398267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Coxs River",
+        "name": "Coxs River at Breakfast Creek",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Wilderness walking access within the Blue Mountains National Park ",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.179062,
+          -33.808156
+        ]
+      }
     }
   ]
 }
