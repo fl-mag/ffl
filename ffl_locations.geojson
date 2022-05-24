@@ -1138,7 +1138,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Murrumbidgee River",
+        "name": "Murrumbidgee River - Headwaters",
         "waterway_name": "Murrumbidgee River",
         "country": "AU",
         "state": "NSW",
@@ -1153,6 +1153,27 @@
         "coordinates": [
           148.5509490966797,
           -35.69634053686433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murrumbidgee River - below Tantangara",
+        "waterway_name": "Murrumbidgee River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "A couple of kilometres below the Tantangara Dam and within the National Park, the Murrumbidgee is one of the finest trout fisheries influenced by the Snowy Hydro Scheme. The density and condition of rainbows and the occasional brown can be surprising.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/murrumbidgee-river-tantangara-dam-to-yaouk",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2022/05/Murrumbidgee-River-FL68-xFreud01_11-2560-16x9-1-500x250.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.72467041015625,
+          -35.76712924679368
         ]
       }
     }
