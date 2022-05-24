@@ -1176,6 +1176,27 @@
           -35.76712924679368
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murrumbidgee River - Yaouk to Dry Plains",
+        "waterway_name": "Murrumbidgee River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "This is a fantastic stretch of water, winding through a broad treeless valley, passing close to Adaminaby. The river here follows the pattern of a long slow pool, line by reeds, followed by a shallow, gravelly glide, or narrow shoot.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/murrumbidgee-river-yaouk-to-dry-plains",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2022/05/Murrumbidgee-FL66-Royter-01_3832-2560-500x250.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.81187438964844,
+          -35.96911507577482
+        ]
+      }
     }
   ]
 }
