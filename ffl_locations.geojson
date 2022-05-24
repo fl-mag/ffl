@@ -1134,6 +1134,27 @@
           -33.674354248232504
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murrumbidgee River",
+        "waterway_name": "Murrumbidgee River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "The headwaters of the Murrumbidgee carve its way through the tussocks, shielded by coarse grass on overhanging banks. The water is as clear as crystal, bubbling over a pebbly bottom from rapid to pool to rapid. The dry fly action can be fantastic, with fish throwing themselves at anything that floats overhead.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/murrumbidgee-river-headwaters-to-tantangara-dam",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2022/05/Murrumbidgee-FL25-Brad-Harris-murr-new-2560b-500x250.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5509490966797,
+          -35.69634053686433
+        ]
+      }
     }
   ]
 }
