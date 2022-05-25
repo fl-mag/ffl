@@ -1197,6 +1197,27 @@
           -35.96911507577482
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murrumbidgee River - Dry Plains to Cooma",
+        "waterway_name": "Murrumbidgee River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "A quick glance at any topographic map will quickly reveal why this area isn't fished much. Further down from the weir at Cooma's water supply pumping station, the best fishing is downstream.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/murrumbidgee-river-dry-plains-to-cooma",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2022/05/Murrumbidgee-FL25-Brad-Harris-MU-4-2560-500x250.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.02301788330078,
+          -36.168922536227434
+        ]
+      }
     }
   ]
 }
