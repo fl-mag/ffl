@@ -1218,6 +1218,27 @@
           -36.168922536227434
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hepburn Lagoon",
+        "waterway_name": "Hepburn Lagoon",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Hepburn Lagoon is a medium-sized water storage located a short drive west of Dayelsford. The lake is surrounded by farmland with a mixture of grassy and rocky shorelines.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/hepburn-lagoon",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2022/06/DSCF3681hepburn-reservoir-2560-500x250.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.00036,
+          -37.3706
+        ]
+      }
     }
   ]
 }
