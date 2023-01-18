@@ -2582,6 +2582,90 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coramba Road Bridge",
+        "waterway_name": "Bielsdown River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Public access to river",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          152.712432,
+          -30.330755
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dangar Falls Reserve",
+        "waterway_name": "Bielsdown River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Public access to river",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          152.714084,
+          -30.322662
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bielsdown Riverside Reserve",
+        "waterway_name": "Bielsdown River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Approximately 600m of publicly accessible river frontage along true right hand side of river.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          152.709364,
+          -30.33862
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorrigo sportsground",
+        "waterway_name": "Bielsdown River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Public access to river",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          152.706755,
+          -30.34008
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
