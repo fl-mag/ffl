@@ -1302,6 +1302,27 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wollomombi River",
+        "waterway_name": "Wollomombi River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Wollomombi has suffered through multiple droughts and dropped off the radar. After several wet years, the river is on the mend and offers exceptional streamer fishing.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/wollomombi-river",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2022/01/wollomombi-river-clancy-2560-16x9-1-500x250.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "coordinates": [
+          152.40144839572486,
+          -30.355889730325757
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
