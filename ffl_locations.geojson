@@ -1281,6 +1281,27 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oaky River",
+        "waterway_name": "Oaky River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "For the most part, Oaky River is a streamer fishery. The water is comparatively big and the population density is on the lower side, so covering water quickly and effectively is most productive.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/oaky-river",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2022/01/oaky-river-clancy-2560-16x9-1-500x250.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "coordinates": [
+          152.254546,
+          -30.498937
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
