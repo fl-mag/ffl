@@ -2478,6 +2478,110 @@
           -33.808156
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jocks Waters Trade Stock Route",
+        "waterway_name": "Jocks Waters",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "Creek",
+        "description": "Trade Stock Route gate - public access to the river can be found through this gate.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          152.402694,
+          -30.343056
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Majors Creek",
+        "name": "Majors Creek Bicentennial National Trail",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "Creek",
+        "description": "Travelling Stock Reserve access  Public land parcel for fishing Majors Creek.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          152.392287,
+          -30.359671
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oaky Creek Reserve",
+        "waterway_name": "Oaky River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Public access to approximately 600m of river.",
+        "URL": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          152.25315,
+          -30.50039
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wollomombi Reserve",
+        "waterway_name": "Wollomombi River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Public access along both river banks upstream of Waterfall Way",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          152.040443,
+          -30.514939
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wollomombi South East Side Reserve",
+        "waterway_name": "Wollomombi River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Public access along both river banks downstream of Waterfall Way",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          152.046641,
+          -30.517963
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
