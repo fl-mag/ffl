@@ -1239,6 +1239,27 @@
           -37.370587
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jocks Waters",
+        "waterway_name": "Jocks Waters",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "Creek",
+        "description": "Jocks Waters, like most of the streams between Ebor and Dorrigo on the New England Tablelands, winds through open farmland for most of its journey.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/jocks-waters",
+        "image_url": "",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.398513,
+          -30.347697
+        ]
+      }
     }
   ]
 }
