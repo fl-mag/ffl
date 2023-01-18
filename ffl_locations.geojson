@@ -1235,7 +1235,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          143.997290,
+          143.99729,
           -37.370587
         ]
       }
@@ -1259,6 +1259,27 @@
           152.398513,
           -30.347697
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Majors Creek",
+        "waterway_name": "Majors Creek",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "Creek",
+        "description": "Majors Creek is stocked regularly with healthy numbers of rainbow trout. For the most part, the creek is narrow and shallow and is very conducive to dry fly and nymph presentations.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/majors-creek",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2022/01/majors-creek-clancy-2560-3x2-1-300x200.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "coordinates": [
+          152.39226541091404,
+          -30.36057076328227
+        ],
+        "type": "Point"
       }
     }
   ]
