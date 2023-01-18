@@ -1323,6 +1323,27 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bielsdown River",
+        "waterway_name": "Bielsdown River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "The Bielsdown River is best visited over the summer months when terrestrial insect activity is at its peak, and the fish eagerly look to the surface to feed.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/bielsdown-river",
+        "image_url": "",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "coordinates": [
+          152.708735,
+          -30.339093
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
