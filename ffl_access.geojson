@@ -2666,6 +2666,128 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fry's Hut",
+        "waterway_name": "Howqua River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Fry's Hut is a popular camping area perched on the bank of the Howqua River. It is somewhat of a transition point in the gradient of the river where long glides and pools begin to prevail downstream to Lake Eildon.",
+        "URL": "",
+        "ffl_marker_type": "access",
+        "image_url": ""
+      },
+      "geometry": {
+        "coordinates": [
+          146.3296907010673,
+          -37.1949380571709
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Howqua River",
+        "name": "Sheepyard Flat",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Sheepyard Flat is the largest and most frequented campground on the Howqua. Despite the patronage there are plenty of trout to be found with convenient access stretching up and downstream of the camping area.",
+        "URL": "",
+        "ffl_marker_type": "access",
+        "image_url": ""
+      },
+      "geometry": {
+        "coordinates": [
+          146.34559709565798,
+          -37.19376274315274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Howqua River",
+        "name": "Tobacco Flat",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Tobacco Flat is an unusual little mix of camping and private properties with direct access to the Howqua River. Long shallow glides and pools are the dominant water in this area of the river.",
+        "URL": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          146.31295680878895,
+          -37.217797480045114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ffl_marker_type": "access",
+        "name": "Eight Mile",
+        "waterway_name": "Howqua River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Eight Mile campground is the kick off point for the high and low walking tracks to Ritchies Hut. The low track crisscrosses the river at regular intervals providing ideally access for anglers. While the high track provides stunning elevated views of the river valley.",
+        "URL": ""
+      },
+      "geometry": {
+        "coordinates": [
+          146.42944311075428,
+          -37.19783005751756
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ritchies Hut",
+        "waterway_name": "Howqua River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Ritchies Hut was built by Fred Fry and the Ritchie family in the 1940's as a fishing hut. It burnt down in the 2006/7 bushfires and was subsequently rebuilt in the style of the original.",
+        "URL": "",
+        "ffl_marker_type": "access",
+        "image_url": ""
+      },
+      "geometry": {
+        "coordinates": [
+          146.47514224184124,
+          -37.195201984484754
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Howqua River",
+        "name": "Upper Howqua Campground",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "The upper Howqua becomes more of a creek than a river at this point, but still supports productive fishing in the cooler months. Flows can get low and warm in the heat of summer.",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          146.56096019313793,
+          -37.17346821376546
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
