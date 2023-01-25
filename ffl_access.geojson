@@ -96,7 +96,7 @@
         "description": "The Tanjil arm is full of timber and is a fantastic area to target bass in the summer. ",
         "URL": "",
         "image_url": "",
-        "ffl_marker_type": "poi"
+        "ffl_marker_type": "point of interest"
       },
       "geometry": {
         "type": "Point",
@@ -2531,7 +2531,8 @@
         "waterway_type": "River",
         "description": "Public access to approximately 600m of river.",
         "URL": "",
-        "ffl_marker_type": "access"
+        "ffl_marker_type": "access",
+        "image_url": ""
       },
       "geometry": {
         "coordinates": [
@@ -2719,7 +2720,8 @@
         "waterway_type": "River",
         "description": "Tobacco Flat is an unusual little mix of camping and private properties with direct access to the Howqua River. Long shallow glides and pools are the dominant water in this area of the river.",
         "URL": "",
-        "ffl_marker_type": "access"
+        "ffl_marker_type": "access",
+        "image_url": ""
       },
       "geometry": {
         "coordinates": [
@@ -2739,7 +2741,8 @@
         "state": "VIC",
         "waterway_type": "River",
         "description": "Eight Mile campground is the kick off point for the high and low walking tracks to Ritchies Hut. The low track crisscrosses the river at regular intervals providing ideally access for anglers. While the high track provides stunning elevated views of the river valley.",
-        "URL": ""
+        "URL": "",
+        "image_url": ""
       },
       "geometry": {
         "coordinates": [
@@ -2759,7 +2762,7 @@
         "waterway_type": "River",
         "description": "Ritchies Hut was built by Fred Fry and the Ritchie family in the 1940's as a fishing hut. It burnt down in the 2006/7 bushfires and was subsequently rebuilt in the style of the original.",
         "URL": "",
-        "ffl_marker_type": "access",
+        "ffl_marker_type": "point of interest",
         "image_url": ""
       },
       "geometry": {
@@ -2779,7 +2782,8 @@
         "state": "VIC",
         "waterway_type": "River",
         "description": "The upper Howqua becomes more of a creek than a river at this point, but still supports productive fishing in the cooler months. Flows can get low and warm in the heat of summer.",
-        "ffl_marker_type": "access"
+        "ffl_marker_type": "access",
+        "image_url": ""
       },
       "geometry": {
         "coordinates": [
