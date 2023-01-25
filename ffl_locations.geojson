@@ -1344,6 +1344,27 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howqua River",
+        "waterway_name": "Howqua River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "The Howqua River is a stunning freestone river tracing the southern foothills of Mount Buller. Rainbows are a regular feature in the faster water, all too willing to take a dry from the surface, while browns, some surprisingly large, can be found in the pools and deeper runs.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/howqua-river",
+        "ffl_marker_type": "location",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2023/01/Howqua-River-fly-fishing-VIC-FlyLife-2560-3x2-1-300x200.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          146.3502999825244,
+          -37.18796694905754
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
