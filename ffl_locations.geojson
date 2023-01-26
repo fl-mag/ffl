@@ -1365,6 +1365,27 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delatite River",
+        "waterway_name": "Delatite River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "The Delatite River is a delightful stream flowing from the north-western slopes of Mount Buller. The smaller cousin of the Howqua River, the Delatitie is a smaller lively stream with a healthy self-sustaining population of rainbow and brown trout.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/delatite-river",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2023/01/delatite-river-vic-sawmill-settlement-500x250.jpeg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "coordinates": [
+          146.33446637663923,
+          -37.1057277191092
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
