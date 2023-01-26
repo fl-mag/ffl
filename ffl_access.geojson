@@ -2792,6 +2792,174 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merrijig",
+        "waterway_name": "Delatite River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "The first place the Mt Buller Rd crosses the river providing access and the opportunity for a cold beer at the pub.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "coordinates": [
+          146.26414715011782,
+          -37.10637841013548
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hearns Crossing",
+        "waterway_name": "Delatite River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "The lower reaches of the Delatite provide more open conditions. The gradient here is mostly lower and silted areas tend to hold less fish.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          146.2107472009746,
+          -37.13003034559954
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Delatite River",
+        "name": "Angler Access",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Rare public access to this stretch of river between private properties. Please respect private properties backing onto the river.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          146.287685,
+          -37.11076
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirimbah Rest Area",
+        "waterway_name": "Delatite River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Easy access to the river and plenty of productive water above and below.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          146.3857569376541,
+          -37.10828607295971
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sawmill Settlement",
+        "waterway_name": "Delatite River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Easy access to the river and plenty of productive water above and below.",
+        "ffl_marker_type": "access",
+        "URL": "",
+        "image_url": ""
+      },
+      "geometry": {
+        "coordinates": [
+          146.34885935774918,
+          -37.10333741308379
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carters Mill Picnic Area",
+        "waterway_name": "Delatite River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "A pleasant place for lunch and direct access to great fly fishing.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          146.37055337351478,
+          -37.103955082298036
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt Buller Entry",
+        "waterway_name": "Delatite River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "A more open section of water before the gradient increases upstream.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          146.39956127283784,
+          -37.109569511400174
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delatite River Trail",
+        "waterway_name": "Delatite River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "The river trail follows the river well up into the twiggy headwaters.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          146.42020405559583,
+          -37.11128635329529
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
