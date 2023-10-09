@@ -1386,6 +1386,27 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Snowy River - Upper",
+        "waterway_name": "Snowy River - Upper",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Set against the backdrop of the majestic Kosciuszko National Park, the upper Snowy River, located near Charlotte's Pass, is a fly fishing paradise. The breathtaking scene, characterized by rocky ridges scattered with remnants of winter snow, wildflowers, dense alpine scrub, and the twisted forms of snow gums.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/snowy-river-upper",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/fl97-snowy-river-andserson-2560-7-300x200.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "coordinates": [
+          148.47329,
+          -36.35476
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
