@@ -2960,6 +2960,69 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Main Range Walking Track",
+        "waterway_name": "Snowy River - Upper",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "The Main Range Walking Track, originating at the Charlotte’s Pass car park, offers direct access to the river in less than a kilometer. This journey, while simple during descent, can prove strenuous during the return due to its uphill nature.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/fl97-snowy-river-andserson-2560-4-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          148.3221232194025,
+          -36.43012492642171
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Illawong Suspension Bridge",
+        "waterway_name": "Snowy River - Upper",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "The Illawong suspension bridge is a popular access point, commencing from Guthega, above the pondage. A journey through this track is as rewarding as the fly fishing experience itself, treating travelers to a vista of breathtaking mountain landscapes.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/fl97-snowy-river-andserson-2560-2-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          148.35447392196568,
+          -36.39576702971605
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spencers Creek",
+        "waterway_name": "Snowy River - Upper",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "For those seeking a more immersive experience, the Spencers Creek route offers both challenge and opportunity. This path demands a dedicated trek through dense scrub but compensates with exclusive fly fishing spots.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/fl97-snowy-river-andserson-2560-9-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          148.34889247450792,
+          -36.399576241324986
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
