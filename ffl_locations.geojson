@@ -95,7 +95,7 @@
         "waterway_type": "Lake",
         "description": "One of the most well know and popular fisheries in Tasmania’s central plates, Arthurs lake is a large body of water managed for hydro electricity generation. It holds a large population of wild brown trout that are self sustaining, spawning in the many creeks and streams running into the lake...",
         "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/arthurs-lake",
-        "image_url": "https://flylife.com.au/wp-content/uploads/2021/08/authurs-lake-tasmania-satellite-1920-300x200.jpg",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2023/10/Arthurs-Lake-2560b-500x250.jpg",
         "ffl_marker_type": "location"
       },
       "geometry": {
@@ -104,7 +104,8 @@
           146.934,
           -41.974886
         ]
-      }
+      },
+      "id": 4
     },
     {
       "type": "Feature",
@@ -482,7 +483,8 @@
           146.7439556121826,
           -42.6819937243499
         ]
-      }
+      },
+      "id": 22
     },
     {
       "type": "Feature",
@@ -1406,6 +1408,27 @@
           -36.34387557455927
         ],
         "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Echo",
+        "waterway_name": "Lake Echo",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "Lake Echo, nestled in the Tasmanian highlands, stands as one of the region's most underrated treasures. Lake Echo is a fly fisher's paradise, promising both challenge and reward.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/lake-echo",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2023/10/Lake-Echo-Cloutier-2560-Brocks-Bay-16x9C-500x250.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.64472987274928,
+          -42.14814383992407
+        ]
       }
     }
   ]
