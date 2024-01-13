@@ -1430,6 +1430,27 @@
           -42.14814383992407
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tumut River",
+        "waterway_name": "Tumut River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "The Tumut River, below Blowering Reservoir, is a fly fishing paradise nestled in the scenic Snowy Valleys region. This river is renowned for its pristine waterways, making it an ideal destination for anglers seeking brown and rainbow trout. ",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/tumut-river",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2023/10/Tumut-River-Hutchins-2560-16x9b-500x250.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "coordinates": [
+          148.2521639715809,
+          -35.330008683281676
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
